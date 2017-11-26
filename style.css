@@ -1,3 +1,7 @@
 body {
-        background-color: blue;
+        background-color: lightblue;
+}
+h2 {
+        font-family: "Times New Roman", Georgia, Serif;
+        font-size: 2em;
 }
